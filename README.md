@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Всем привет!</h1>
+  <h1>Всем привет  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> ! </h1> 
 </div>
 
 <div align="center">
