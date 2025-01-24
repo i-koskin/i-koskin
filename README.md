@@ -2,6 +2,13 @@
   <h1>Всем привет!</h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist:
 Меня зовут Игорь Коськин, и я специалист в области Data Science. Я увлечён анализом данных, машинным обучением и решением реальных задач с помощью данных. Моя цель — использовать статистические методы и алгоритмы для извлечения ценной информации и принятия обоснованных решений
 
 ### 📊 Что я делаю?
@@ -23,10 +30,10 @@
 - [Email](mailto:i.koskinl@yandex.ru)
 - [Telegram](https://t.me/i_koskin)
 
-Спасибо, что заглянули на мой профиль! Надеюсь, вам понравятся мои проекты. Давайте развиваться вместе! 🚀
+Спасибо, что заглянули на мой профиль! Надеюсь, вам понравятся мои проекты. Предлагаю развиваться вместе! 🚀
 
 ---
-### Инструменты
+### :hammer_and_wrench: Инструменты
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
