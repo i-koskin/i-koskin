@@ -43,9 +43,12 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0b0038?style=for-the-badge&logo=FastAPI&logoColor=4c74cc)
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-0b0038?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-0b0038?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0b0038?style=for-the-badge&logo=SQLAlchemy&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
 
 ---
 ### Проекты
