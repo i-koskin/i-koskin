@@ -39,11 +39,11 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0b0038?style=for-the-badge&logo=PyTorch&logoColor=d84f35)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0b0038?style=for-the-badge&logo=FastAPI&logoColor=4c74cc)
-
 ![SQL](https://img.shields.io/badge/sql-0b0038?style=for-the-badge&logo=sql&logoColor=%white) ![PostgreSQL](https://img.shields.io/badge/postgresql-0b0038?style=for-the-badge&logo=postgresql&logoColor=3c78a9) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0b0038?style=for-the-badge&logo=SQLAlchemy&logoColor=white)
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-0b0038.svg?style=for-the-badge&logo=OpenCV&logoColor=%white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0b0038?style=for-the-badge&logo=FastAPI&logoColor=4c74cc)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
