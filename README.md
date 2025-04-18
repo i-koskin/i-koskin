@@ -43,6 +43,8 @@
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-0b0038?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0b0038?style=for-the-badge&logo=SQLAlchemy&logoColor=white)
 
+![OpenCV](https://img.shields.io/badge/OpenCV-0b0038.svg?style=for-the-badge&logo=OpenCV&logoColor=black)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
